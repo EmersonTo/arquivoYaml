@@ -1,0 +1,10 @@
+floatingValue: '1'
+hostname: localhost
+integerValue: '1'
+key: value
+mysqldatabase: hostname
+password: root
+port: '3012'
+string1: Line1
+stringValue: wer
+username: root
